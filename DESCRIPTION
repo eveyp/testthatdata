@@ -1,0 +1,17 @@
+Package: testthatdata
+Title: Extends testthat for use in checking data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Eve",
+           family = "Perry",
+           role = c("aut", "cre"),
+           email = "eve@eveperry.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: 'testthatdata' provides extensions to the testthat package to
+    simplify checking the data within tibbles/data frames.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Config/testthat/edition: 3
