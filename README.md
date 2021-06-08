@@ -4,6 +4,8 @@
 # testthatdata
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/ianeveperry/testthatdata/workflows/R-CMD-check/badge.svg)](https://github.com/ianeveperry/testthatdata/actions)
 <!-- badges: end -->
 
 The goal of testthatdata is to …
